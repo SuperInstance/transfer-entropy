@@ -1,0 +1,11 @@
+[package]
+name = "transfer-entropy"
+version = "0.1.0"
+edition = "2021"
+description = "Transfer entropy computation for detecting information flow between time series with significance testing"
+license = "MIT"
+repository = "https://github.com/SuperInstance/transfer-entropy"
+keywords = ["transfer-entropy", "information-theory", "time-series", "causality", "math"]
+categories = ["mathematics", "algorithms", "science"]
+
+[dependencies]
